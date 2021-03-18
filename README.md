@@ -1,2 +1,2 @@
 # Automation 
-Scripts to test Automation testing using java and selenium
+Scripts to test Automation testing using java and selenium web driver
